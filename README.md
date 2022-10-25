@@ -9,6 +9,6 @@
 
 -'Garcia Sueldo Humberto'
 -'Ballestera Lucas'
--'Nevy Tomás'
+-'Nevi Tomás'
 -'Forastieri Emiliano'
 
